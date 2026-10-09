@@ -1,5 +1,4 @@
 # Online_Voting_System
-# Online Voting System
 
 ## 📌 About the Project
 
